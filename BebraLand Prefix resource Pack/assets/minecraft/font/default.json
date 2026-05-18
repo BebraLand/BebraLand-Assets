@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": 0,
+      "height": 30,
+      "chars": ["\u0203"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/owner_prefix.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\u0204"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/donator_prefix.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\u0205"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/member_prefix.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\u0206"]
+    }
+  ]
+}
