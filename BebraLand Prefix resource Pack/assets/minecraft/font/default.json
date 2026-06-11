@@ -27,6 +27,13 @@
       "ascent": 7,
       "height": 7,
       "chars": ["\u0206"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/discord_logo.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\u0207"]
     }
   ]
 }

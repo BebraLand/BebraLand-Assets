@@ -1,6 +1,21 @@
 {
-	"pack":{
-		"pack_format": 7,
-		"description": "Adds fonts"
-	}
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 34
+    },
+    "description": {
+      "text": "BebraLand",
+      "color": "#714C35",
+      "bold": true,
+      "extra": [
+        {
+          "text": " official resources",
+          "color": "#D7C7B8",
+          "italic": true
+        }
+      ]
+    }
+  }
 }
