@@ -1,14 +1,10 @@
 {
-    "variants": {
-        "": [
-		{ "model": "block/jungle_leaves1" },
-		{ "model": "block/jungle_leaves2" },
-		{ "model": "block/jungle_leaves3" },
-		{ "model": "block/jungle_leaves4" },
-		{ "model": "block/jungle_leaves5" },
-		{ "model": "block/jungle_leaves6" },
-		{ "model": "block/jungle_leaves7" },
-		{ "model": "block/jungle_leaves8" }
-		]
+  "variants": {
+    "waterlogged=false": {
+      "model": "minecraft:block/jungle_leaves"
+    },
+    "waterlogged=true": {
+      "model": "minecraft:block/jungle_leaves_waterlogged"
     }
+  }
 }

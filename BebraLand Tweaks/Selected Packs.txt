@@ -1,18 +1,56 @@
 Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
-	BushyLeaves
-	SmallerUtilities
 	HoeFix
-	AnimatedCampfireItem
-	SplashXpBottle
-	BetterParticles
-	StemToLog
-	HDShieldBanners
-	TwinklingStars
-	ClearerWater
-	ShorterTallGrass
-	ShorterGrass
+	SmallerUtilities
+	WhatSpyglassMeme
+	MoreCrosshairs-SmallCross
+	SmootherFont
+	PingColorIndicator
+	Age25Kelp
+	ArabicNumerals
+	NoteblockBanners
+	VisualComposterStages
+	VisualCauldronStages
+	VisualHoney
+	GroovyLevers
+	RedstonePowerLevels
+	DirectionalDispensersDroppers
+	StickyPistonSides
+	MusicDiscRedstonePreview
+	UniqueSpawnEggs
+	DiminishingTools
+	QuieterEndermen
+	QuieterEnderDragon
+	QuieterCreepers
+	QuieterPhantoms
+	QuieterSheep
+	QuieterWither
+	QuieterWitches
+	QuieterVillagers
+	QuieterPigs
+	QuieterIronGolems
+	QuieterGhasts
+	QuieterBlazes
+	QuieterCats
+	QuieterChickens
+	QuieterCows
+	QuieterCopperGolems
+	QuieterShulkerBoxes
+	QuieterRain
+	QuieterThunder
+	QuieterChests
+	QuieterExplosions
+	NoCaveSounds
+	QuieterPistons
+	QuieterSculkShriekers
+	QuieterSculkSensors
+	QuieterConsumables
+	QuieterWater
+	QuieterNetherPortals
+	QuieterFire
+	QuieterMinecarts
+	QuieterDispensersDroppers
 	VariatedDirt
 	RandomCoarseDirtRotation
 	VariatedGrass
@@ -31,59 +69,11 @@ Packs:
 	VariatedUnpolishedStones
 	VariatedTerracotta
 	VariatedStone
-	QuieterRain
-	QuieterThunder
-	QuieterChests
-	QuieterExplosions
-	NoCaveSounds
-	QuieterPistons
-	QuieterSculkShriekers
-	QuieterSculkSensors
-	QuieterConsumables
-	QuieterWater
-	QuieterNetherPortals
-	QuieterFire
-	QuieterMinecarts
-	QuieterDispensersDroppers
-	QuieterEndermen
-	QuieterEnderDragon
-	QuieterCreepers
-	QuieterPhantoms
-	QuieterSheep
-	QuieterWither
-	QuieterWitches
-	QuieterVillagers
-	QuieterPigs
-	QuieterIronGolems
-	QuieterGhasts
-	QuieterBlazes
-	QuieterCats
-	QuieterChickens
-	QuieterCows
-	QuieterCopperGolems
-	QuieterShulkerBoxes
-	Age25Kelp
-	ArabicNumerals
-	NoteblockBanners
-	VisualComposterStages
-	VisualCauldronStages
-	VisualHoney
-	GroovyLevers
-	RedstonePowerLevels
-	DirectionalDispensersDroppers
-	StickyPistonSides
-	MusicDiscRedstonePreview
-	UniqueSpawnEggs
-	DiminishingTools
-	PingColorIndicator
-	SmootherFont
-	MoreCrosshairs-SmallCross
-	WhatSpyglassMeme
-	UnobtrusiveRain
-	LowerShield
-	LowerFire
-	UnobtrusiveSnow
-	TransparentPumpkin
+	AnimatedCampfireItem
+	SplashXpBottle
+	BetterParticles
+	StemToLog
+	HDShieldBanners
 	CloudFogFix
 	ItemHoldFix
 	DoubleSlabFix
@@ -113,6 +103,16 @@ Packs:
 	RedstoneWireFix
 	JappaSpecIcons
 	JappaStatsIcons
+	NicerFastLeaves
+	UnobtrusiveRain
+	LowerShield
+	LowerFire
+	UnobtrusiveSnow
+	TransparentPumpkin
+	TwinklingStars
+	ClearerWater
+	ShorterTallGrass
+	ShorterGrass
 	PixelConsistentSigns
 	HangingSignLogs
 	ProperBreakParticles
